@@ -1,6 +1,5 @@
-### Hi there 👋
 
-Hi there! I'm Nivedita Bhadra, a data scientist with a Ph.D. in computational biology. I'm passionate about using data-driven approaches to solve complex problems in various domains, including healthcare, finance, and social media.
+Hi there! I'm Nivedita Bhadra, a data scientist with a Ph.D. in computational Physics. I'm passionate about using data-driven approaches to solve complex problems in various domains, including healthcare, finance, and social media.
 
 In my career, I've gained expertise in several areas, such as machine learning, data analysis, statistical modeling, and data visualization. I've worked on several projects that involve developing predictive models, designing experiments, and analyzing large datasets. I have experience in using various programming languages and tools, such as Python, R, SQL, and Tableau, to extract insights from data.
 
