@@ -2,7 +2,7 @@ I am Nivedita Bhadra, a passionate Computational Scientist Consultant with a pro
 
 🔬 My Journey So Far:
 
-For the past 4+ years, I have been on a thrilling odyssey, meticulously diving into the realms of human longevity, aging, and the transformative potential of data science. Armed with a Ph.D. in Physics, I have delved headfirst into the world of omics data analyses, where I unravel complex biological data to reveal hidden insights and markers that could pave the way for extending the human lifespan.
+For the past 5+ years, I have been on a thrilling odyssey, meticulously diving into the realms of human longevity, aging, and the transformative potential of data science. Armed with a Ph.D. in Physics, I have delved headfirst into the world of omics data analyses, where I unravel complex biological data to reveal hidden insights and markers that could pave the way for extending the human lifespan.
 
 📊 My Expertise:
 
