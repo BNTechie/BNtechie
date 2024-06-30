@@ -19,7 +19,7 @@ PhD in Computational Physics. 5+ years of experience in the Quantitative Medicin
 
 • Natural Language Processing: Text mining, sentiment analysis
 
-***Analytical Skills ***
+***Analytical Skills***
 
 • Data preprocessing, normalization, and transformation
 
