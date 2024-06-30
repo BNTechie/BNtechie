@@ -19,21 +19,28 @@ PhD in Computational Physics. 5+ years of experience in the Quantitative Medicin
 
 • Natural Language Processing: Text mining, sentiment analysis
 
-*** Analytical Skills ***
+***Analytical Skills ***
+
 • Data preprocessing, normalization, and transformation
+
 • Predictive modeling and algorithm development
+
 • Network and pathway analysis, Differential gene expression analysis
 
 ***Research and Project Experience***
 
 • Developed and implemented predictive models for clinical trial data analysis, improving early-phase trial
 insights.
+
 • Conducted exploratory data analysis and visualized complex datasets to identify trends and patterns.
+
 • Designed and executed experiments to test hypotheses and validate models.
 
-*** Soft Skills***
+***Soft Skills***
 • Excellent written and verbal communication skills in English
+
 • Collaboration in interdisciplinary and multicultural teams
+
 • Independent project management and leadership
 
 ***Additional Skills***
