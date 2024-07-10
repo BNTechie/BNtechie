@@ -37,6 +37,7 @@ insights.
 • Designed and executed experiments to test hypotheses and validate models.
 
 ***Soft Skills***
+
 • Excellent written and verbal communication skills in English
 
 • Collaboration in interdisciplinary and multicultural teams
