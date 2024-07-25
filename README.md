@@ -1,5 +1,6 @@
-Computational Scientist. 
-PhD in Computational Physics. 5+ years of experience in the Quantitative Medicine and System Biology Division.
+# Data Scientist. 
+
+PhD in Computational Physics. 5+ years of experience in Data Science.
 
 ***Data Science Skills***
 
