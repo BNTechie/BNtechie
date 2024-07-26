@@ -1,4 +1,4 @@
-# Data Scientist. 
+# Data Scientist
 
 PhD in Computational Physics. 5+ years of experience in Data Science.
 
