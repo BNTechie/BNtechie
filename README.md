@@ -1,14 +1,14 @@
 # Data Scientist
 
-PhD in Computational Physics. 5+ years of experience in Data Science.
+Data Scientist(5+ years). PhD in Computational Physics.
 
 ***Data Science Skills***
 
 • Programming Languages: Python, R
 
-• Statistical Analysis: Generalized linear models, multivariate regression, time-series analysis
+• Statistical Analysis: Generalized linear models, multivariate regression, time-series analysis.(scikit-learn, statsmodel, pandas, numpy)
 
-• Machine Learning: Neural networks, support vector machines, random forests, boosting methods
+• Machine Learning: Neural networks, support vector machines, random forests, boosting methods (scikit-learn, pyTorch, keras)
 
 • Data Integration and Management: SQL, handling multi-omic datasets (genomics, proteomics, transcriptomic)
 
@@ -18,7 +18,7 @@ PhD in Computational Physics. 5+ years of experience in Data Science.
 
 • Bioinformatics Tools: Bioconductor, Galaxy
 
-• Natural Language Processing: Text mining, sentiment analysis
+• Natural Language Processing: Text mining, Sentiment analysis, Topic Modelling (NLTK, SPacy, BERT)
 
 ***Analytical Skills***
 
