@@ -1,4 +1,4 @@
-# Data Scientist
+# Senior Data Scientist
 
 Data Scientist (5+ years). PhD in Computational Physics.
 
