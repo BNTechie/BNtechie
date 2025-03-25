@@ -1,6 +1,6 @@
 # Senior Data Scientist
 
-Data Scientist (5+ years). PhD in Computational Physics.
+Data Scientist (7+ years). PhD in Computational Physics.
 
 ***Data Science Skills***
 
