@@ -1,6 +1,6 @@
 # Senior Data Scientist
 
-Data Scientist (7+ years). Masters in Big Data Analytics, and  PhD in Computational Physics.
+Data Scientist (8+ years). Masters in Big Data Analytics, and  PhD in Computational Physics.
 
 ***Data Science Skills***
 
