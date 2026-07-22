@@ -1,61 +1,34 @@
-# Senior Data Scientist
 
-Data Scientist (8+ years). Masters in Big Data Analytics, and  PhD in Computational Physics.
+**Senior Data Scientist**
 
-***Data Science Skills***
+Data Scientist (8+ years) working at the intersection of statistical genetics, population genomics, and applied machine learning in biomedical research. MEng in Big Data Analytics, PhD in Computational Physics.
 
-• Programming Languages: Python, R
+**Population Genomics & Statistical Genetics**
+- GWAS, polygenic risk scores (PRS), multi-ancestry analysis
+- PRS tools: SBayesR (via GCTB), LDpred2, PRS-CS, PLINK (`--score`)
+- Causal inference: Mendelian randomization-style approaches using pharmacogenomic variants (e.g. CYP2D6, CYP2C19, CES1) as genetic instruments
+- Martingale residual transformation for Cox-to-linear GWAS
+- Large-scale cohort analysis (e.g. iPSYCH2015, N=105,477; ~10,000 PGS computed from FinnGen/UK Biobank summary statistics)
 
-• Statistical Analysis: Generalized linear models, multivariate regression, time-series analysis.(scikit-learn, statsmodel, pandas, numpy)
+**Machine Learning & Predictive Modeling**
+- Programming: Python, R, SQL, Bash
+- Statistical modeling: generalized linear models, multivariate regression, time-series analysis (scikit-learn, statsmodels, pandas, numpy)
+- Predictive modeling: LASSO, Random Forest, XGBoost, ensemble/Super Learner methods — applied to clinical prediction modeling in oncology trial data
+- Applied transformer models via the Hugging Face pipeline API (BERT, DistilBERT, Sentence-BERT, BERTopic) and PyTorch for GPU-accelerated inference on HPC systems — applying pretrained models, not training architectures from scratch
 
-• Machine Learning: Neural networks, support vector machines, random forests, boosting methods (scikit-learn, pyTorch, keras)
+**Infrastructure & Pipelines**
+- HPC cluster pipelines, Snakemake (basic level)
+- Containerization: Docker, Singularity
+- Version control: Git
+- Data visualization: Matplotlib, Seaborn, ggplot2
 
-• Data Integration and Management: SQL, handling multi-omic datasets (genomics, proteomics, transcriptomic)
+**Research & Project Experience**
+- Phenotype QC, ancestry-stratified association testing, and PRS analysis across large genomic cohorts
+- Predictive modeling for clinical trial data, contributing to early-phase trial insight generation
+- Cross-institutional collaboration on pharmacogenomic causal inference projects
 
-• Data Visualization: ggplot2, Matplotlib, Seaborn
-
-• Big Data and High-Performance Computing: Use of HPC clusters for large-scale data analysis
-
-• Bioinformatics Tools: Bioconductor, Galaxy
-
-• Natural Language Processing: Text mining, Sentiment analysis, Topic Modelling (NLTK, SPacy, BERT)
-
-***Analytical Skills***
-
-• Data preprocessing, normalization, and transformation
-
-• Predictive modeling and algorithm development
-
-• Network and pathway analysis, Differential gene expression analysis
-
-***Research and Project Experience***
-
-• Developed and implemented predictive models for clinical trial data analysis, improving early-phase trial
-insights.
-
-• Conducted exploratory data analysis and visualized complex datasets to identify trends and patterns.
-
-• Designed and executed experiments to test hypotheses and validate models.
-
-***Soft Skills***
-
-• Excellent written and verbal communication skills in English
-
-• Collaboration in interdisciplinary and multicultural teams
-
-• Independent project management and leadership
-
-***Additional Skills***
-
-• Linux systems, command-line tools
-
-• Version control (Git)
-
-• Deep learning frameworks (TensorFlow, Keras, PyTorch)
-
-• Experience with relational databases and big data technologies
-
-
-
-
+**Soft Skills**
+- Written and verbal communication in English
+- Collaboration in interdisciplinary, multicultural, and cross-institutional teams
+- Independent project management
 
