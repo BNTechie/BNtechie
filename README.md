@@ -1,5 +1,5 @@
 
-*Senior Data Scientist*
+* Senior Data Scientist *
 
 Data Scientist (8+ years) working at the intersection of statistical genetics, population genomics, and applied machine learning in biomedical research. MEng in Big Data Analytics, PhD in Computational Physics.
 
